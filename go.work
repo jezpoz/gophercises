@@ -1,6 +1,7 @@
-go 1.19
+go 1.21
 
 use (
 	./exercise1
 	./exercise2
+	./exercise3
 )
